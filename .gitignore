@@ -65,3 +65,5 @@ Platformer/Library/*
 Platformer/Logs/*
 Platformer/obj/*
 Platformer/Temp/*
+Platformer/Build
+Platformer/UserSettings
