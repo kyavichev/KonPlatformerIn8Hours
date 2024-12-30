@@ -67,3 +67,5 @@ Platformer/obj/*
 Platformer/Temp/*
 Platformer/Build
 Platformer/UserSettings
+/Platformer/ProjectSettings/BurstAotSettings_WebGL.json
+/Platformer/ProjectSettings/CommonBurstAotSettings.json
